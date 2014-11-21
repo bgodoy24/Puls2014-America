@@ -2,4 +2,4 @@ Clase Instalacion de Github
 
 -	Crear una cuenta de github, para una empresa que sera privadara debera
 	ser pagada
--	windows.github.com y descar la app
+-	windows.github.com y descar la aplicacion
